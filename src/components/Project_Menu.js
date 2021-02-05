@@ -25,11 +25,11 @@ export default function OnHoverMenu(props){
           <Menu.Item key="Alphabet for children">Alphabet for children</Menu.Item>
         </Menu>
       );
-      <h1>Just a test</h1>
+     
     return(
        <div>
            <h1>Projects</h1>
-
+           <h1>Just a test</h1>
 
   <Dropdown overlay={menu}>
     <a className="ant-dropdown-link" onClick={e => e.preventDefault()}>
