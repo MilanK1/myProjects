@@ -1,0 +1,21 @@
+.container{
+display: flex;
+}
+
+
+.NavLink:link, .NavLink:visited {
+    background-color: white;
+    color: black;
+    border: 2px solid green;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    text-shadow: 3px;
+  }
+  
+  .NavLink:hover, .NavLink:active {
+    background-color: green;
+    color: white;
+    text-shadow: 3px;
+  }

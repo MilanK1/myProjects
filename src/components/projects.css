@@ -1,0 +1,8 @@
+.ant-dropdown-link{
+    border: 10px, sloid black;
+    text-shadow: 10px;
+    background-color: white;
+}
+.ant-dropdown-link:hover{
+    background-color: black;
+}
