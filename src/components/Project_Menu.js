@@ -25,6 +25,7 @@ export default function OnHoverMenu(props){
           <Menu.Item key="Alphabet for children">Alphabet for children</Menu.Item>
         </Menu>
       );
+      <h1>Just a test</h1>
     return(
        <div>
            <h1>Projects</h1>
